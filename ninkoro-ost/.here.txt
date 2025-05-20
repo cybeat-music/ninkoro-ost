@@ -1,6 +1,6 @@
 {
   "category": "2",
-  "title": 'TV Anime "Ninja to Koroshiya no Futarigurashi" Original Soundtrack',
+  "title": [TV Anime "Ninja to Koroshiya no Futarigurashi" Original Soundtrack],
   "author": "Ryuunosuke Kasai",
   "disc": "0",
   "1": [],
